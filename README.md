@@ -1,4 +1,4 @@
-## Vue + CATAAS
+## Vue + CATAAS + Tailwind
 Consumiendo API de <a href="https://cataas.com/">CATAAS</a>
 ```
 npm install
@@ -6,4 +6,4 @@ npm install
 ```
 npm run dev
 ```
-Cambie el proyecto ajustandolo a sus necesidades.🤠
+Cambie el proyecto ajustándolo a sus necesidades.🤠
